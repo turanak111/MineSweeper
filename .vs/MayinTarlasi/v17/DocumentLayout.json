@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D08E680-E143-4D66-BEAA-0B504C541009}|MayinTarlasi\\MayinTarlasi.csproj|c:\\users\\turan\\desktop\\mayintarlasi\\mayintarlasi\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D08E680-E143-4D66-BEAA-0B504C541009}|MayinTarlasi\\MayinTarlasi.csproj|solutionrelative:mayintarlasi\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D08E680-E143-4D66-BEAA-0B504C541009}|MayinTarlasi\\MayinTarlasi.csproj|c:\\users\\turan\\desktop\\mayintarlasi\\mayintarlasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D08E680-E143-4D66-BEAA-0B504C541009}|MayinTarlasi\\MayinTarlasi.csproj|solutionrelative:mayintarlasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D08E680-E143-4D66-BEAA-0B504C541009}|MayinTarlasi\\MayinTarlasi.csproj|C:\\Users\\Turan\\Desktop\\MayinTarlasi\\mayintarlasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D08E680-E143-4D66-BEAA-0B504C541009}|MayinTarlasi\\MayinTarlasi.csproj|solutionrelative:mayintarlasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\MayinTarlasi\\Game.cs",
+              "RelativeDocumentMoniker": "MayinTarlasi\\Game.cs",
+              "ToolTip": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\MayinTarlasi\\Game.cs",
+              "RelativeToolTip": "MayinTarlasi\\Game.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:01:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\MayinTarlasi\\Program.cs",
+              "RelativeDocumentMoniker": "MayinTarlasi\\Program.cs",
+              "ToolTip": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\MayinTarlasi\\Program.cs",
+              "RelativeToolTip": "MayinTarlasi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:01:49.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\MayinTarlasi\\Form1.cs",
+              "RelativeDocumentMoniker": "MayinTarlasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Turan\\Desktop\\MayinTarlasi\\MayinTarlasi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MayinTarlasi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:01:44.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

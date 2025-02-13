@@ -1,0 +1,7 @@
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\Images\flag.png
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\Images\mineimage.png
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\MayinTarlasi.exe
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\MayinTarlasi.dll
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\MayinTarlasi.deps.json
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\MayinTarlasi.runtimeconfig.json
+C:\Users\Turan\source\repos\MayinTarlasi\MayinTarlasi\bin\Release\net8.0-windows\app.publish\MayinTarlasi.pdb
